@@ -1,0 +1,40 @@
+# =========================
+# Eclipse
+# =========================
+.settings/
+.project
+.classpath
+
+# =========================
+# Build Output
+# =========================
+build/
+target/
+out/
+bin/
+
+# Compiled Java Files
+*.class
+*.war
+*.jar
+*.ear
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
